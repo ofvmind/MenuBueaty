@@ -1,0 +1,48 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 55px 0;
+  background-color: #000;
+}
+
+.footer__row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+    opacity: .7;
+    .footer__row-logo {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 50px;
+    }
+    .footer__row-technology {
+      display: flex;
+      align-items: center;
+      margin-bottom: 50px;
+      gap: 10px;
+      p {
+        font-size: 30px;
+      }
+      span {
+        font-size: 25px;
+      }
+    }
+    .corp {
+      width: 300px;
+      border-top: 5px solid rgba(29, 29, 29, 1);
+      border-bottom: 5px solid rgba(29, 29, 29, 1);
+      padding: 10px 0;
+      font-size: 20px;
+      font-weight: bold;
+      letter-spacing: 4px;
+      font-family: 'Lobster', cursive;
+    }
+   .year {
+      margin-top: 50px;
+      width: 300px;
+      font-size: 30px;
+    }
+}
