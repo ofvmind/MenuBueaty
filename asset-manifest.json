@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/MenuBueaty/static/css/main.40d4e8aa.css",
+    "main.js": "/MenuBueaty/static/js/main.52abd57b.js",
+    "static/media/wineKabarne.png": "/MenuBueaty/static/media/wineKabarne.c0d7b0233f927025d94a.png",
+    "static/media/wine.jpg": "/MenuBueaty/static/media/wine.47a4f6fb752fc4318954.jpg",
+    "static/media/pizzaGAVAY.webp": "/MenuBueaty/static/media/pizzaGAVAY.deaf3e6cdd5b62fa7255.webp",
+    "static/media/BarMenu.jpg": "/MenuBueaty/static/media/BarMenu.4f96a065b5879872d782.jpg",
+    "static/media/juiceApple.jpg": "/MenuBueaty/static/media/juiceApple.93ceb3ccfd5384fb37d6.jpg",
+    "static/media/sexOn.webp": "/MenuBueaty/static/media/sexOn.e1eefccb6da979fc9ed6.webp",
+    "static/media/back.jpg": "/MenuBueaty/static/media/back.3661d0b604d3023a39bb.jpg",
+    "static/media/viskiJack.jpg": "/MenuBueaty/static/media/viskiJack.0f5ef3f3445d57a1bff7.jpg",
+    "static/media/viskiJameson.jpg": "/MenuBueaty/static/media/viskiJameson.3dbd707e649755bd09a1.jpg",
+    "static/media/vodkaCosack.jpg": "/MenuBueaty/static/media/vodkaCosack.d824f4f1f9b873f7527c.jpg",
+    "static/media/pineappleJuice.jpg": "/MenuBueaty/static/media/pineappleJuice.7da2f963b9231dc608e4.jpg",
+    "static/media/margaret.jpeg": "/MenuBueaty/static/media/margaret.9d118f4dd613aa9a812f.jpeg",
+    "static/media/orangeJuice.jpg": "/MenuBueaty/static/media/orangeJuice.1f297169c3da06bf04d6.jpg",
+    "static/media/mojito.jpg": "/MenuBueaty/static/media/mojito.c3c0fc0357eb4c5aaecb.jpg",
+    "static/media/wineBolgtad.jpg": "/MenuBueaty/static/media/wineBolgtad.7cbafc4401d400144879.jpg",
+    "static/media/mimoza.jpg": "/MenuBueaty/static/media/mimoza.b94144701e72fd7fb806.jpg",
+    "static/media/brand.jpg": "/MenuBueaty/static/media/brand.ba523680c654e8ffd0ba.jpg",
+    "static/media/aparel.jpg": "/MenuBueaty/static/media/aparel.9a90006dd78a02f6f37c.jpg",
+    "static/media/footerLogo.jpg": "/MenuBueaty/static/media/footerLogo.f6cae28183c13f75bcc1.jpg",
+    "static/media/BBQ.jpg": "/MenuBueaty/static/media/BBQ.9facf4584135512575e6.jpg",
+    "static/media/pizza.jpg": "/MenuBueaty/static/media/pizza.845f860a05c802dd4db3.jpg",
+    "static/media/buy.png": "/MenuBueaty/static/media/buy.6e07730c10042087d77a.png",
+    "static/media/pizzaMARG.jpg": "/MenuBueaty/static/media/pizzaMARG.dc6e791bcf3f1f7c6ce3.jpg",
+    "static/media/pizzaCHEEZE.jpg": "/MenuBueaty/static/media/pizzaCHEEZE.11958f807ddb3c6f071a.jpg",
+    "static/media/cocktails.jpg": "/MenuBueaty/static/media/cocktails.5e3576dfb0338e9bb096.jpg",
+    "static/media/burger2.png": "/MenuBueaty/static/media/burger2.6ceff87e95416a5c3646.png",
+    "static/media/juice.jpg": "/MenuBueaty/static/media/juice.765573db776d09cd8024.jpg",
+    "static/media/decor.svg": "/MenuBueaty/static/media/decor.3a7c5461bff2ed55fb16c186ed36b597.svg",
+    "static/media/react.svg": "/MenuBueaty/static/media/react.903d77ad940b12efaddde2484397ad4a.svg",
+    "index.html": "/MenuBueaty/index.html",
+    "main.40d4e8aa.css.map": "/MenuBueaty/static/css/main.40d4e8aa.css.map",
+    "main.52abd57b.js.map": "/MenuBueaty/static/js/main.52abd57b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d4e8aa.css",
+    "static/js/main.52abd57b.js"
+  ]
+}
